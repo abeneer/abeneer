@@ -1,6 +1,6 @@
 ## Hi, I'm Abeneer 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=560&lines=AI+Engineer+%26+Full-Stack+Developer;LangGraph+%2F+LLM+Agent+Builder;MSc+Computer+Science+%E2%80%94+Univ.+of+Hertfordshire)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=560&lines=AI+Engineer+%26+Full-Stack+Developer;LangGraph+%2F+LLM+Agent+Builder;)](https://git.io/typing-svg)
 
 I'm a full-stack developer turned AI engineer, focused on building agentic systems that connect LLMs to real data and real APIs rather than toy demos.
 
