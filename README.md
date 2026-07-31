@@ -11,10 +11,10 @@ After finishing my MSc in Computer Science at the University of Hertfordshire, I
 | Category | Technologies |
 |---|---|
 | **Backend & Core** | Python, TypeScript, JavaScript, Java, C++, SQL |
-| **AI & LLM Infra** | LangChain, LangGraph, OpenAI API, Groq, Prompt Engineering |
-| **Frameworks & Libs** | Next.js, React, Flask, Express, Streamlit |
-| **Data & Infra** | MongoDB, PostgreSQL, Docker, Git, Vercel |
-| **Automation** | Web Scraping, REST APIs, CLI Tooling |
+| **AI & LLM Infra** | LangChain, LangGraph, LLM APis, OpenAI API, Groq, Prompt Engineering |
+| **Frameworks & Libs** | Next.js, React, Flask, Express, Streamlit, Django, FastAPI |
+| **Data & Infra** | MongoDB, PostgreSQL, Docker, Git, Vercel, Docker |
+| **Automation** | Web Scraping, REST APIs, CLI Tooling, Selenium |
 
 ### 💡 Core Focus Areas
 
