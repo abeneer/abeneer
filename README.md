@@ -40,9 +40,3 @@ A Python CLI tool that scrapes public profile data across GitHub, Instagram, and
 - 🌐 **Portfolio:** [abeneer-portfolio.vercel.app](https://abeneer-portfolio.vercel.app)
 - 📍 **Location:** United Kingdom
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abeneer&show_icons=true&theme=default&hide_border=true" alt="Abeneer's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeneer&layout=compact&hide_border=true" alt="Top languages" />
-</p>
